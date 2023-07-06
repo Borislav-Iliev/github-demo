@@ -1,1 +1,1 @@
-Test Git Quick Start Demo for rebase
+Test Git Quick Start Demo for rebase -i
