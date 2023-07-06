@@ -6,4 +6,4 @@ Some more changes for example reasons.
 
 ## Branch
 
-Some text for branch rebase -interactive example.
+Some text for branch example.
