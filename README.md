@@ -7,3 +7,4 @@ Some more changes for example reasons.
 ## Branch
 
 Some text for branching conflict example.
+Revert example.
