@@ -6,4 +6,4 @@ Some more changes for example reasons.
 
 ## Branch
 
-Some text for branching conflict main example.
+Some text for branching example.
