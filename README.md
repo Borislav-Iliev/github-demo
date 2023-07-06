@@ -6,4 +6,4 @@ Some more changes for example reasons.
 
 ## Branch
 
-Some text stash example.
+Some text for branch example.
