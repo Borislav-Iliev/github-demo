@@ -6,4 +6,4 @@ Some more changes for example reasons.
 
 ## Branch
 
-Some text for rebase conflict example.
+Some text for rebase conflict example in main.
