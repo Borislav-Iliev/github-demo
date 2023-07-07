@@ -6,4 +6,4 @@ Some more changes for example reasons.
 
 ## Branch
 
-Some text for branch examples.
+Some text for cherry-picking examples.
